@@ -46,3 +46,4 @@
 
 ## 6. Demo Video & Deployment
 - **Demo Video**: [Link to Demo Video (7.4)]
+<video src="./Demo.mp4" width="100%" controls></video>
