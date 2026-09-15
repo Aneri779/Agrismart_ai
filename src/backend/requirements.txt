@@ -1,0 +1,15 @@
+# FastAPI backend
+fastapi>=0.100
+uvicorn[standard]>=0.23
+python-multipart>=0.0.6
+google-genai>=1.0
+httpx>=0.24.0
+python-dotenv>=1.0.0
+bcrypt>=4.0.0
+psycopg2-binary>=2.9.0
+
+# ML model dependencies (also install ml-model/requirements.txt)
+# torch, torchvision, timm, albumentations, opencv are needed at runtime
+# because predict.py imports them. Install via:
+#   pip install -r ../ml-model/requirements.txt
+opencv-python-headless>=4.8
