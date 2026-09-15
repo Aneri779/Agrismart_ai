@@ -49,7 +49,10 @@
 ## 6. Demo Video & Deployment
 - **Demo Video**: [Link to Demo Video (7.4)]
 
-https://github.com/user-attachments/assets/749cbc08-d1fd-4304-8dc4-517bdecdae8a
+
+https://github.com/user-attachments/assets/b5c8d07e-56a2-41c8-98b3-962c3c7d19ae
+
+
 
 # AI Vision Fallback, Invalid Image Filtering & Diagnostic Source Indicators
 
